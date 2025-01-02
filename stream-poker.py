@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded")
 
-alt.themes.enable("dark")
+# alt.themes.enable("dark")
 
 
 df = pd.read_csv('Poker Stats - Data.csv')
