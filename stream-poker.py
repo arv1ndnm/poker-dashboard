@@ -1,10 +1,10 @@
 import streamlit as st 
-from streamlit_gsheets import GSheetsConnection
+# from streamlit_gsheets import GSheetsConnection
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import altair as alt
-import plotly.express as px
+# import altair as alt
+# import plotly.express as px
 
 
 from datetime import datetime
